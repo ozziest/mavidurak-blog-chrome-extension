@@ -1,0 +1,13 @@
+{
+  "name": "Easy RSS Reader",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "The first extension that I made.",
+  "browser_action": {
+    "default_icon": "mavi.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "http://feed.rssad.jp/rss/gigazine/rss_2.0"
+  ]
+}
