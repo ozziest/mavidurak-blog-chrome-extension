@@ -1,10 +1,10 @@
 {
   "name": "Mavidurak-IO Blog Reader",
-  "version": "1.0",
+  "version": "1.0.1",
   "manifest_version": 2,
   "description": "Mavidurak-IO Blog Reader For Chrome",
   "browser_action": {
-    "default_icon": "mavi.png",
+    "default_icon": "src/img/popup-icon.png",
     "default_popup": "popup.html"
   },
   "permissions": [
