@@ -1,6 +1,8 @@
 # Mavidurak Blog Chrome Extension
 
-Installation steps;
+https://chrome.google.com/webstore/detail/mavidurak-io-blog-reader/jpjmcmmnmfhpppojggnbdidphdlghcah
+
+Manual installation steps;
 
 - Open the Chrome
 - Navigate to chrome://extensions
